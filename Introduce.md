@@ -2,7 +2,7 @@
 
 ## Java là gì?
 
-Java là ngôn ngữ lập trình bậc cao, được phát triển bởi **Sun Microsystems**, do **James Gosling** khởi xướng và phát hành vào năm 1995 như là một thành phần cốt lõi của nền tảng Java của **Sun Microsystems (Java 1.0 [J2SE])**. Java chạy trên rất nhiều nền tảng khác nhau, như **Windows**, **Mac** và các phiên bản khác nhau của **UNIX**. 
+Java là ngôn ngữ lập trình bậc cao, được phát triển bởi **Sun Microsystems**, do **James Gosling** khởi xướng và phát hành vào năm 1995 như là một thành phần cốt lõi của nền tảng Java của **Sun Microsystems (Java 1.0 [J2SE])**. Java chạy trên rất nhiều nền tảng khác nhau, như **Windows**, **Mac** và các phiên bản khác nhau của **UNIX**.  
 Java được hiểu là một loại ngôn ngữ lập trình hướng đối tượng (OOP) và dựa trên các lớp. Không giống với những ngôn ngữ lập trình thông thường, thay vì việc biên dịch mã nguồn trở thành mã nguồn máy hoặc trực tiếp thông dịch mã nguồn khi chạy thì Java được thiết kế để biên dịch mã nguồn thành bytecode. Sau đó, bytecode sẽ được môi trường thực thi (runtime environment).
 
 ## Đặc điểm của Java
@@ -24,12 +24,12 @@ Java được hiểu là một loại ngôn ngữ lập trình hướng đối t
 
 Có 4 loại ứng dụng chính mà có thể được tạo bởi sử dụng ngôn ngữ lập trình Java:
 
-- **Standalone App**
+- **Standalone App**  
 Nó còn được biết đến với tên gọi khác là **Destop App** hoặc **Windows-based App**. Một ứng dụng mà chúng ta cần cài đặt trên mỗi thiết bị như media player, antivirus... **AWT** và **Swing** được sử dụng trong Java để tạo các **Standalone App**.
-- **Web App**
+- **Web App**  
 Một ứng dụng mà chạy trên **Server Side** và tạo **Dynamic Page**, được gọi là **Web App**. Hiện tại, các công nghệ Servlet, JSP, Struts, JSF... được sử dụng để tạo **Web App** trong Java.
-- **Enterprise App**
+- **Enterprise App**  
 Một ứng dụng dạng như **Banking App**, có lợi thế là tính bảo mật cao, cân bằng tải (load balancing) và clustering. Trong java, **EJB** được sử dụng để tạo các **Enterprise App**.
-- **Mobile App**
+- **Mobile App**  
 Đây là loại ứng dụng được tạo cho thiết bị mobile. Hiện tại thì **Android** và **Java ME** được sử dụng để tạo loại ứng dụng này.
 
